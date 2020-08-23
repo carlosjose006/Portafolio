@@ -8,3 +8,6 @@ Codigos utilizados en git
 - git status ( para verificar el estatus del repositorio)
 - git log ( Sirve para ver los commit que he realizado)
 - git show ( Sirve para para ver los cambios en un archivo)
+- git diff codigos ( sirve para comparar los cambios entra dos commit)
+- git reset codigo -- soft ( sirve para devolver un commit al area de trabajo)
+- git commit codigo -- hard ( sirve para devolvernos en el tiempo a un commit en especifico)
