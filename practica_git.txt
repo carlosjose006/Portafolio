@@ -11,3 +11,4 @@ Codigos utilizados en git
 - git diff codigos ( sirve para comparar los cambios entra dos commit)
 - git reset codigo -- soft ( sirve para devolver un commit al area de trabajo)
 - git commit codigo -- hard ( sirve para devolvernos en el tiempo a un commit en especifico)
+- git log --stat 
