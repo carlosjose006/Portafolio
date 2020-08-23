@@ -1,0 +1,8 @@
+Notas de Git
+
+Codigos utilizados en git
+
+- git init ( Este sirve para inicializar un repositorio)
+- git add . (Se utiliza para agragar un archivo o modificacion a mi area de trabajo)
+- git commit -m ( se utiliza para guardar en el area final del repositorio)
+- git status ( para verificar el estatus del repositorio)
