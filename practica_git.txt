@@ -1,4 +1,4 @@
-Notas de Git
+Notas del curso de Git
 
 Codigos utilizados en git
 
@@ -6,3 +6,5 @@ Codigos utilizados en git
 - git add . (Se utiliza para agragar un archivo o modificacion a mi area de trabajo)
 - git commit -m ( se utiliza para guardar en el area final del repositorio)
 - git status ( para verificar el estatus del repositorio)
+- git log ( Sirve para ver los commit que he realizado)
+- git show ( Sirve para para ver los cambios en un archivo)
