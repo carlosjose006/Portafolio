@@ -27,3 +27,4 @@ git pull ( para traer los cambios, este es el comando que se usa el fetch y el m
 git branch nombre ( para crear una rama)
 git branch --list ( para saber cuanta rama hay)
 git commit am- "mensaje " ( para pasar directamente al commit)
+git merge ( sirve para fucionar los cambios que se hagan en diferente ramas)
