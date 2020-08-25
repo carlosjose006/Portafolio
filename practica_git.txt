@@ -15,3 +15,14 @@ Codigos utilizados en git
 
 Dia 22/08/2020
 
+git log --oneline ( para ver los commit sin autor)
+git checkout codigo nombre ( para volver en el tiempo sin eliminar el commit)
+git checkout master nombre ( para vorlver a la version mas reciente)
+git push  ( Para enviar los archivo al repositorio remoto)
+git clone url ( para clonar un repositorio remoto al local)
+git fetch ( para traer los cambios realizados o los commit) ( no se usa)
+git merge ( para trer los directorios) ( no se usa)
+git pull ( para traer los cambios, este es el comando que se usa el fetch y el merge no se usan)
+git branch nombre ( para crear una rama)
+git branch --list ( para saber cuanta rama hay)
+git commit am- "mensaje " ( para pasar directamente al commit)
