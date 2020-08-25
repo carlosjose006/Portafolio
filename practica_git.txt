@@ -16,8 +16,7 @@ Codigos utilizados en git
 Dia 22/08/2020
 
 git log --oneline ( para ver los commit sin autor)
-git checkout codigo nombre ( para volver en el tiempo sin eliminar el commit)
-git checkout master nombre ( para vorlver a la version mas reciente)
+git checkout codigo nombre ( para volver en el tiempo sin eliminar el commit)git
 git push  ( Para enviar los archivo al repositorio remoto)
 git clone url ( para clonar un repositorio remoto al local)
 git fetch ( para traer los cambios realizados o los commit) ( no se usa)
