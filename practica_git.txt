@@ -33,3 +33,4 @@ git remote -v ( Para ver si hat coneccion con el remoto)
 git remote add origin url ( para conectar con mi repositorio remoto, establecer
 comunicacion entre el local y el remoto)
 git pull origin master --allow-unrelated-hitories ( para fucionar el master loca y el remoto)
+git pull origin master ( para traer los cambios realizado en el remoto)
