@@ -1,4 +1,4 @@
-Probando la union de las ramas 
+ Probando la union de las ramas 
 
 Notas del curso de Git
 
@@ -28,3 +28,6 @@ git branch --list ( para saber cuanta rama hay)
 git commit am- "mensaje " ( para pasar directamente al commit)
 git merge nombreRama ( sirve para fucionar los cambios que se hagan en diferente ramas)
 git restore nombre ( Para volver atras antes de realizar el ultimo cambio)
+git remote -v ( Para ver si hat coneccion con el remoto)
+git remote add origin url ( para conectar con mi repositorio remoto, establecer
+comunicacion entre el local y el remoto)
